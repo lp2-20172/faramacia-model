@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("1.2.2:1", "", "Diagrama de caso de uso 1", "EARoot/EA1/EA2/EA2/EA42.htm", "180.png", "6", "0", "", "Use Case diagram0","{B2F3A587-3328-4314-A3DE-32ED3B072D13}");
+tocTab[tocTab.length] = new Array("1.2.2:4", "", "Actor1", "EARoot/EA1/EA2/EA2/EA48.htm", "6.png", "34", "0", "", "Actor0","{10BEA26C-AC9E-487a-85BD-35D624748E31}");
+tocTab[tocTab.length] = new Array("1.2.2:5", "", "Caso de uso1", "EARoot/EA1/EA2/EA2/EA49.htm", "7.png", "35", "0", "", "UseCase0","{DFA998F0-BD19-4f08-A4BC-958387D65413}");
+tocTab[tocTab.length] = new Array("1.2.2:6", "", "Caso de uso2", "EARoot/EA1/EA2/EA2/EA50.htm", "7.png", "37", "0", "", "UseCase0","{D1C41155-7E79-4fb5-BA5B-05DC61C1CFF8}");
+tocTab[tocTab.length] = new Array("1.2.2:2", "", "Diagrama de robustez", "EARoot/EA1/EA2/EA2/EA44.htm", "189.png", "7", "35", "", "Analysis diagram0","{B807253D-466D-484d-B34A-5C46035EAC29}");
+tocTab[tocTab.length] = new Array("1.2.2:3", "", "Diagrama de secuencias", "EARoot/EA1/EA2/EA2/EA46.htm", "185.png", "8", "35", "", "Sequence diagram0","{024C365E-0F54-4510-884E-360B6D5D4BA2}");
+tocTab[tocTab.length] = new Array("1.2.2:7", "", "«control» control", "EARoot/EA1/EA2/EA2/EA55.htm", "25.png", "40", "35", "", "Object0","{F63780A9-7873-40af-93BF-069FA98EAF1D}");
+tocTab[tocTab.length] = new Array("1.2.2:8", "", "«entity» entidad", "EARoot/EA1/EA2/EA2/EA56.htm", "25.png", "41", "35", "", "Object0","{E02AA073-78AC-4a28-AFE4-C9CCCF4FB8B9}");
+tocTab[tocTab.length] = new Array("1.2.2:9", "", "«boundary» límite", "EARoot/EA1/EA2/EA2/EA58.htm", "25.png", "42", "35", "", "Object0","{6523A76D-AA5C-4a88-8F57-2C696B8269FE}");
+tocTab[tocTab.length] = new Array("1.2.2:10", "", "usuario", "EARoot/EA1/EA2/EA2/EA59.htm", "6.png", "33", "35", "", "Actor0","{B4E8D541-226A-461d-8EDE-41D1E180847C}");

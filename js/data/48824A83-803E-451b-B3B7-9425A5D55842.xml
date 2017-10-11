@@ -1,0 +1,16 @@
+tocTab[tocTab.length] = new Array("1.4.1:1", "", "models", "EARoot/EA1/EA4/EA1/EA66.htm", "175.png", "19", "0", "", "Logical diagram0","{9AF971A7-CB15-41ad-9492-8E7F8FDBA5E3}");
+tocTab[tocTab.length] = new Array("1.4.1:2", "", "Almacen", "EARoot/EA1/EA4/EA1/EA68.htm", "5.png", "71", "0", "", "Class0","{34BBAA5C-D0A5-42b1-93A4-6D33AB367756}");
+tocTab[tocTab.length] = new Array("1.4.1:3", "", "Categoria", "EARoot/EA1/EA4/EA1/EA69.htm", "5.png", "76", "0", "", "Class0","{C7558202-E30C-4b6d-8592-55AF85968DD4}");
+tocTab[tocTab.length] = new Array("1.4.1:4", "", "Cliente", "EARoot/EA1/EA4/EA1/EA70.htm", "5.png", "64", "0", "", "Class0","{EBB28C10-C5AD-4295-8355-B4C6CE849A34}");
+tocTab[tocTab.length] = new Array("1.4.1:5", "", "Compra", "EARoot/EA1/EA4/EA1/EA71.htm", "5.png", "78", "0", "", "Class0","{7E40DC97-E122-4a70-B186-7D81A3A6865A}");
+tocTab[tocTab.length] = new Array("1.4.1:6", "", "compra", "EARoot/EA1/EA4/EA1/EA72.htm", "5.png", "68", "0", "", "Class0","{103CB6A1-6110-4b24-9199-1080BC06A12A}");
+tocTab[tocTab.length] = new Array("1.4.1:7", "", "CompraDetalle", "EARoot/EA1/EA4/EA1/EA73.htm", "5.png", "79", "0", "", "Class0","{D34E8D1C-9B91-45e6-8C6E-C96F75B05B44}");
+tocTab[tocTab.length] = new Array("1.4.1:8", "", "Detalle", "EARoot/EA1/EA4/EA1/EA74.htm", "5.png", "66", "0", "", "Class0","{89EB8B1F-D54D-415c-B17F-EF77DFB8A6E3}");
+tocTab[tocTab.length] = new Array("1.4.1:9", "", "Persona", "EARoot/EA1/EA4/EA1/EA75.htm", "5.png", "77", "0", "", "Class0","{3948D35D-B9F0-41bc-B551-2413B8D0C5AC}");
+tocTab[tocTab.length] = new Array("1.4.1:10", "", "Producto", "EARoot/EA1/EA4/EA1/EA76.htm", "5.png", "63", "0", "", "Class0","{23CA5A5F-DE82-4744-B7C0-3C24FF3A8368}");
+tocTab[tocTab.length] = new Array("1.4.1:11", "", "Proveedor", "EARoot/EA1/EA4/EA1/EA77.htm", "5.png", "80", "0", "", "Class0","{65947E5F-F6B7-45e0-BD36-A91D7E893ED8}");
+tocTab[tocTab.length] = new Array("1.4.1:12", "", "proveedor", "EARoot/EA1/EA4/EA1/EA78.htm", "5.png", "69", "0", "", "Class0","{77793E0D-8031-43ad-A657-71D4C86A9BED}");
+tocTab[tocTab.length] = new Array("1.4.1:13", "", "«enumeration» TipoDoc", "EARoot/EA1/EA4/EA1/EA79.htm", "5.png", "73", "0", "", "Class0","{F2194CCE-F848-4dfb-AC9D-86FE26346845}");
+tocTab[tocTab.length] = new Array("1.4.1:14", "", "Usuario", "EARoot/EA1/EA4/EA1/EA80.htm", "5.png", "67", "0", "", "Class0","{58BAA25E-17EB-4910-ADA4-B54320100DA5}");
+tocTab[tocTab.length] = new Array("1.4.1:15", "", "Venta", "EARoot/EA1/EA4/EA1/EA81.htm", "5.png", "65", "0", "", "Class0","{798BB05B-8713-44a8-933F-5B6FFAF2C297}");
+tocTab[tocTab.length] = new Array("1.4.1:16", "", "VentaDetalle", "EARoot/EA1/EA4/EA1/EA82.htm", "5.png", "70", "0", "", "Class0","{BE3D5393-1117-4a97-8B63-107109558E7E}");
